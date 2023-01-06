@@ -1,0 +1,7 @@
+require("iftekhar.plugins-setup")
+require("iftekhar.core.options")
+require("iftekhar.core.keymaps")
+require("iftekhar.core.colorscheme")
+require("iftekhar.plugins.lualine")
+require("iftekhar.plugins.nvim-tree")
+require("iftekhar.plugins.telescope")
